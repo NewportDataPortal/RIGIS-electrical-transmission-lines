@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>RI Statewide Planning-RIGIS</origin>
+<pubdate>20010601</pubdate>
+<title>Electricity Transmission Lines; electran</title>
+<edition Sync="TRUE">2001</edition>
+<geoform Sync="TRUE">vector digital data</geoform>
+<pubinfo Sync="TRUE">
+<pubplace>Providence Rhode Island</pubplace>
+<publish>Statewide Planning Program</publish>
+</pubinfo>
+<othercit>Suggested bibliographic reference: RIGIS, 2001. Electricity Transmission Lines; electran. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 16 October 2014).</othercit>
+<onlink>http://www.rigis.org/data/utilitiesCommunication.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>RIGIS</origin>
+<pubdate>1989</pubdate>
+<title>Rhode Island Geographic Information System Database</title>
+<pubinfo Sync="TRUE">
+<pubplace>Providence/Kingston RI</pubplace>
+<publish>RIGIS</publish>
+</pubinfo>
+<onlink>www.edc.uri.edu</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+Major above ground high voltage electrical transmission
+lines as shown on USGS 7.5 minute topo quads and/or as
+confirmed through identification of visible right of way
+cuts on digital orthophotgraphy
+</abstract>
+<purpose Sync="TRUE">Inventory and general mapping of electric utility infrastructure</purpose>
+<supplinf Sync="TRUE">
+No field verification or verification from private electric
+utility providers
+</supplinf>
+</descript>
+<timeperd Sync="TRUE">
+<timeinfo Sync="TRUE">
+<rngdates Sync="TRUE">
+<begdate Sync="TRUE">19880601</begdate>
+<enddate Sync="TRUE">20010601</enddate>
+</rngdates>
+</timeinfo>
+<current Sync="TRUE">publication date</current>
+</timeperd>
+<status Sync="TRUE">
+<progress Sync="TRUE">Complete</progress>
+<update Sync="TRUE">As needed</update>
+</status>
+<spdom Sync="TRUE">
+<bounding Sync="TRUE">
+<westbc Sync="TRUE">-71.874676</westbc>
+<eastbc Sync="TRUE">-71.173604</eastbc>
+<northbc Sync="TRUE">42.018823</northbc>
+<southbc Sync="TRUE">41.366179</southbc>
+</bounding>
+</spdom>
+<keywords Sync="TRUE">
+<theme Sync="TRUE">
+<themekt Sync="TRUE">ISO 19115 Topic Category</themekt>
+</theme>
+<theme>
+<themekt Sync="TRUE">None</themekt>
+<themekey Sync="TRUE">utilitiesCommunication</themekey>
+<themekey Sync="TRUE">019</themekey>
+<themekey Sync="TRUE">utilities</themekey>
+<themekey Sync="TRUE">infrastructure</themekey>
+<themekey Sync="TRUE">electric transmission</themekey>
+<themekey Sync="TRUE">high voltage power</themekey>
+</theme>
+<place>
+<placekt Sync="TRUE">None</placekt>
+<placekey Sync="TRUE">USA</placekey>
+<placekey Sync="TRUE">New England</placekey>
+<placekey>Rhode Island</placekey>
+</place>
+</keywords>
+<accconst>None.</accconst>
+<useconst>
+This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products. Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Division of Planning</cntorg>
+<cntper>Shane White</cntper>
+</cntorgp>
+<cntpos>RIGIS Coordinator</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>One Capitol Hill</address>
+<city>Providence</city>
+<state>RI</state>
+<postal>02908-5872</postal>
+</cntaddr>
+<cntvoice>401-222-6483</cntvoice>
+<cntemail>shane.white@doa.ri.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.rigis.org/images/metadata/utilitiesCommunication/elec_trans_ln.gif</browsen>
+<browset>GIF</browset>
+</browse>
+</idinfo>
+<dataqual Name="arc">
+<attracc Sync="TRUE">
+<attraccr Name="arc">
+There are no feature attributes other than software
+generated line identification
+</attraccr>
+</attracc>
+<logic Name="label">
+Topologically complete ESRI line coverage or ESRI shape
+file data
+</logic>
+<complete Name="Bikeways_and_Trails_s44obh95">
+Complete to date of publication - This data set may not
+contain all high voltage transmission lines in the state.
+</complete>
+<posacc Name="label">
+<horizpa Name="polygon">
+<horizpar Name="label">Estimated spatial accuracy - plus or minus 100 feet</horizpar>
+</horizpa>
+<vertacc Name="label">
+<vertaccr Name="polygon">Not applicable</vertaccr>
+</vertacc>
+</posacc>
+<lineage Name="polygon">
+<srcinfo Name="tic">
+<srccite Name="polygon">
+<citeinfo Name="tic">
+<origin Name="annotation">RIGIS</origin>
+<pubdate Name="polygon">19970427</pubdate>
+<title Name="point">RIGIS Digital Orthophotography</title>
+<edition Sync="TRUE">1997-2 foot</edition>
+<geoform Name="annotation">map</geoform>
+<pubinfo Sync="TRUE">
+<pubplace Sync="TRUE">Providence RI</pubplace>
+<publish Sync="TRUE">RIGIS</publish>
+</pubinfo>
+<othercit Sync="TRUE">Digital Orthophotography for Rhode Island from aerial photography</othercit>
+<onlink>http://www.planning.state.ri.us</onlink>
+<lworkcit Sync="TRUE">
+<citeinfo Sync="TRUE">
+<origin Sync="TRUE">RIGIS</origin>
+<pubdate Sync="TRUE">1989</pubdate>
+<title Sync="TRUE">RIGIS Database</title>
+<pubinfo Sync="TRUE">
+<pubplace Sync="TRUE">Kingston RI</pubplace>
+<publish Sync="TRUE">RI Board of Governors for Higher Education</publish>
+</pubinfo>
+<onlink>http://www.rigis.org/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale Sync="TRUE">5000</srcscale>
+<typesrc Sync="TRUE">digital images</typesrc>
+<srctime Sync="TRUE">
+<timeinfo Sync="TRUE">
+<rngdates Sync="TRUE">
+<begdate Sync="TRUE">19970427</begdate>
+<enddate Name="s44llu93.pat">19970429</enddate>
+</rngdates>
+</timeinfo>
+<srccurr Name="s44hbc94.pat">Current to date of photography</srccurr>
+</srctime>
+<srccitea Name="s44hbc94.pat">rigis5ko</srccitea>
+<srccontr Sync="TRUE">
+Digital ortho images were used as a back cover for on
+screen digitization of
+identified powerline rights of way
+</srccontr>
+<procstep Sync="TRUE"></procstep>
+<procdesc Name="Audubon_Lands_s44oal95">
+Power line rights or way on digital ortho images were
+digitized through on screen display methods using ESRI
+ArcView software. Resulting shape files
+were converted to ESRI ArcInfo coverages for building of topology.
+</procdesc>
+<srcused Sync="TRUE">rigis5ko97</srcused>
+<procdate Sync="TRUE">20010301</procdate>
+<srcprod Sync="TRUE">s44uet01.e00-electran.shp</srcprod>
+<proccont Sync="TRUE">
+<cntinfo Sync="TRUE">
+<cntperp Sync="TRUE">
+<cntper Sync="TRUE">john Stachelhaus</cntper>
+<cntorg Sync="TRUE">RI Dept of Administration-Statewide Planning-RIGIS</cntorg>
+</cntperp>
+<cntpos Sync="TRUE">RIGIS Coordinator</cntpos>
+<cntaddr Sync="TRUE">
+<addrtype Name="s44hbc94.pat">mailing and physical address</addrtype>
+<address Sync="TRUE">One Capitol Hill</address>
+<city Sync="TRUE">Providence</city>
+<state Sync="TRUE">RI</state>
+<postal Sync="TRUE">02908</postal>
+<country Sync="TRUE">US</country>
+</cntaddr>
+<cntvoice Sync="TRUE">401-222-6483</cntvoice>
+<cntfax Sync="TRUE">401-222-6482</cntfax>
+<cntemail Sync="TRUE">stach@rigis.doa.state.ri.us</cntemail>
+<hours Sync="TRUE">8-4 EST</hours>
+</cntinfo>
+</proccont>
+</srcinfo>
+<procstep>
+<procdesc>Updated Point of Contact information for this dataset from "RIGIS Coordinator" to "Shane White."</procdesc>
+<procdate>20150528</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Coastal Institute</address>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo Sync="TRUE">
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf Sync="TRUE">
+<sdtsterm Sync="TRUE" Name="Electricity_Transmission_Lines">
+<sdtstype Sync="TRUE">String</sdtstype>
+<ptvctcnt Sync="TRUE">173</ptvctcnt>
+</sdtsterm>
+<sdtsterm Sync="TRUE">
+<sdtstype Sync="TRUE">Point</sdtstype>
+<ptvctcnt Sync="TRUE">4</ptvctcnt>
+</sdtsterm>
+<sdtsterm Sync="TRUE">
+<sdtstype Sync="TRUE">Composite object</sdtstype>
+<ptvctcnt Sync="TRUE">173</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref Sync="TRUE">
+<horizsys Sync="TRUE">
+<planar Sync="TRUE">
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">3800</spcszone>
+<transmer>
+<sfctrmer Sync="TRUE">0.999994</sfctrmer>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.083333</latprjo>
+<feast Sync="TRUE">328083.333333</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</spcs>
+</gridsys>
+<planci Sync="TRUE">
+<plance Sync="TRUE">coordinate pair</plance>
+<coordrep Sync="TRUE">
+<absres Sync="TRUE">0.000512</absres>
+<ordres Sync="TRUE">0.000512</ordres>
+</coordrep>
+<plandu Sync="TRUE">survey feet</plandu>
+</planci>
+</planar>
+<geodetic Sync="TRUE">
+<horizdn Name="s44nbs96.pat" Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Name="s44nbs96.pat" Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef Sync="TRUE">
+<altsys Sync="TRUE">
+<altres Name="polygon" Sync="TRUE">0.000010</altres>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+</altsys>
+</vertdef>
+</spref>
+<eainfo Sync="TRUE">
+<detailed Sync="TRUE" Name="Electricity_Transmission_Lines">
+<enttyp Sync="TRUE">
+<enttypl Name="s44nbs96.pat" Sync="TRUE">Electricity_Transmission_Lines</enttypl>
+</enttyp>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Name="polygon">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">LENGTH</attrlabl>
+<attrdef Name="s44onc98.pat">Length of feature in internal units.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Name="arc">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr Name="label">
+<attrlabl Sync="TRUE">FNODE_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">TNODE_</attrlabl>
+</attr>
+<attr Name="arc">
+<attrlabl Sync="TRUE">LPOLY_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Name="tic">RPOLY_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">ELECTRAN_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Name="tic">ELECTRAN_ID</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">Shape_Length</attrlabl>
+<attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+</detailed>
+<detailed Sync="TRUE">
+<enttyp Sync="TRUE">
+<enttypl Sync="TRUE">electran.ratelectran</enttypl>
+</enttyp>
+<attr Name="s44onc98.pat">
+<attrlabl Name="rilu95c.pat">FID</attrlabl>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">ELECTRAN#</attrlabl>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">ELECTRAN-ID</attrlabl>
+<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">LINE-ID</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">FNODE_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">TNODE_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">LPOLY_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">RPOLY_</attrlabl>
+</attr>
+<attr Name="label">
+<attrlabl Sync="TRUE">LENGTH</attrlabl>
+<attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv Sync="TRUE">
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">RIHV_</attrlabl>
+</attr>
+<attr Sync="TRUE">
+<attrlabl Sync="TRUE">RIHV_ID</attrlabl>
+</attr>
+</detailed>
+<overview Sync="TRUE">
+<eaover Sync="TRUE">Only software generated line identification features are present</eaover>
+<eadetcit Sync="TRUE">Only software generated attribute features are present</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</distrib>
+<distliab>This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Esri shapefile</formname>
+<filedec>ZIP</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.rigis.org</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+</stdorder>
+</distinfo>
+<metainfo Sync="TRUE">
+<metd Sync="TRUE">20060724</metd>
+<metrd Sync="TRUE">200106013</metrd>
+<metc Sync="TRUE">
+<cntinfo Name="rissoils.pat">
+<cntorgp Sync="TRUE">
+<cntorg Sync="TRUE">RI Department of Administration-RIGIS</cntorg>
+<cntper Sync="TRUE">John Stachelhaus</cntper>
+</cntorgp>
+<cntpos Sync="TRUE">GIS Manager</cntpos>
+<cntaddr Sync="TRUE">
+<addrtype Sync="TRUE">Mailing and physical address</addrtype>
+<address Sync="TRUE">One Capitol Hill</address>
+<city Sync="TRUE">Providence</city>
+<state Sync="TRUE">Rhode Island</state>
+<postal Sync="TRUE">02908-5872</postal>
+<country Name="tic">US</country>
+</cntaddr>
+<cntvoice Sync="TRUE">(401) 222-6483</cntvoice>
+<cntfax Sync="TRUE">(401) 222-6482</cntfax>
+<cntemail Sync="TRUE">stach@rigis.doa.state.ri.us</cntemail>
+<hours Sync="TRUE">8-4 EST M-F</hours>
+</cntinfo>
+</metc>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+</metainfo>
+</metadata>
